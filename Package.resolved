@@ -1,0 +1,302 @@
+{
+  "pins" : [
+    {
+      "identity" : "applovin-max-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
+      "state" : {
+        "revision" : "b5acf713209298059bb2f09b22d84d523454bc7b",
+        "version" : "13.5.1"
+      }
+    },
+    {
+      "identity" : "mintegraladsdk-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mintegral-official/MintegralAdSDK-Swift-Package.git",
+      "state" : {
+        "revision" : "af6d2c5d136ecf7d9761799e98c91b26bd8ce072",
+        "version" : "8.0.4"
+      }
+    },
+    {
+      "identity" : "revup-ios-chartboost",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUP-iOS-ChartBoost.git",
+      "state" : {
+        "revision" : "67ebd2513a9b14eb3228ac12e3276f8bd1b45461",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revup-ios-pangle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUP-iOS-Pangle.git",
+      "state" : {
+        "revision" : "c8714cdf84a48f8d6db66ad10bf7e63085bf9913",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupluckyevent-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPLuckyEvent-SPM.git",
+      "state" : {
+        "revision" : "ff5f24464b0017f1977e76fe024bed4cd9451da4",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediaadmanager-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaAdManager-SPM.git",
+      "state" : {
+        "revision" : "6ea9aa5d2a30b4ed7b5a289dbbf0816be396a697",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediaadmob-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaAdMob-SPM.git",
+      "state" : {
+        "revision" : "4e9dd3269063793592236d6ecbeb5728e4017281",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediachartboost-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaChartBoost-SPM.git",
+      "state" : {
+        "revision" : "3d7c71964f66093f9fd3c063f0e72fd202edf1f4",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamax-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMax-SPM.git",
+      "state" : {
+        "revision" : "955d54170c88defaeb3050f2f81bd7e14214bfff",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapteradmanager-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterAdManager-SPM.git",
+      "state" : {
+        "revision" : "0dec6c75c9428cc2120d37f26279c4a4905c837e",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapteradmob-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterAdMob-SPM.git",
+      "state" : {
+        "revision" : "3dc7a0f25dc9e7f50f94d71edddcf9a16bd026e1",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapteramazon-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterAmazon-SPM.git",
+      "state" : {
+        "revision" : "1330295db8211e224721fd3ca61950db27be579a",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterbidmachine-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterBidMachine-SPM.git",
+      "state" : {
+        "revision" : "b30f42c373928ae731b1256b88450d6c5c6eaf67",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterbigo-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterBigo-SPM.git",
+      "state" : {
+        "revision" : "88c87e701d1f38a5b27798fd1bba1569b5e40563",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterchartboost-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterChartBoost-SPM.git",
+      "state" : {
+        "revision" : "0983e1578dac9689c8be4988437c31471687829c",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterdtexchange-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterDTExchange-SPM.git",
+      "state" : {
+        "revision" : "d301c834728d228c18cd684638bda4bfb400f792",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterfan-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterFan-SPM.git",
+      "state" : {
+        "revision" : "d0986cac50104f82e0cf1ea789d7c6cf57179fc6",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterinmobi-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterInMobi-SPM.git",
+      "state" : {
+        "revision" : "437b48511dd2e6799b7baad13784449a42230eab",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterironsource-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterIronSource-SPM.git",
+      "state" : {
+        "revision" : "b658a9145dcefc82b63b647ba1605d60c41516ae",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterline-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterLine-SPM.git",
+      "state" : {
+        "revision" : "21ae8d04021cca86bc42277be99094ab9165789d",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadaptermobvista-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterMobVista-SPM.git",
+      "state" : {
+        "revision" : "045aea14793f8228fa2cf62a40e4e05e8f139d25",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadaptermoloco-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterMoloco-SPM.git",
+      "state" : {
+        "revision" : "61ce613c1691aacd3b01940e9ee105827c4f61fc",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterogury-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterOgury-SPM.git",
+      "state" : {
+        "revision" : "5c0501607f1542b269365abc8226b51e1eeb06e3",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterpangle-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterPangle-SPM.git",
+      "state" : {
+        "revision" : "2f04c318ec639c1c6ef04a649a9d52b597ac377a",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterpubmatic-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterPubMatic-SPM.git",
+      "state" : {
+        "revision" : "7f0835838954bcd78b4b215e1986c6d2e86e2d0b",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadapterunityads-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterUnityAds-SPM.git",
+      "state" : {
+        "revision" : "4c42d2df95ae1622ac9e1541f5c03e6908bbe6ec",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediamaxadaptervungle-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaMaxAdapterVungle-SPM.git",
+      "state" : {
+        "revision" : "9114f5a65c789a7125ddf5b953ee937d2dad609a",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediapangle-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaPangle-SPM.git",
+      "state" : {
+        "revision" : "44a2752635ddff89b7e72c0dc7c65287659577c7",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediatnkpub-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaTnkPub-SPM.git",
+      "state" : {
+        "revision" : "03a31283c8cacb6ab6c48324336ac21a07747aa9",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "revupmediavungle-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPMediaVungle-SPM.git",
+      "state" : {
+        "revision" : "117604aa2849cf23a56126cddf4afc14b17a87a9",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-mobile-ads",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
+      "state" : {
+        "revision" : "1239c23464503053c17d37ee5daa70de3455e9c8",
+        "version" : "12.14.0"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-user-messaging-platform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
+      "state" : {
+        "revision" : "13b248eaa73b7826f0efb1bcf455e251d65ecb1b",
+        "version" : "3.1.0"
+      }
+    },
+    {
+      "identity" : "vungleadssdk-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "ee4f0cb9244298a9d5dbadd29c9fd5798d49ee71",
+        "version" : "7.6.3"
+      }
+    }
+  ],
+  "version" : 2
+}
