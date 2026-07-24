@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "REVUP",
-    platforms: [.iOS(.v15)],
+    platforms: [.iOS(.v13)],
     products: [
         .library(
             name: "REVUP",
@@ -25,7 +25,7 @@ let package = Package(
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterBidMachine-SPM.git", exact: "1.1.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterBigo-SPM.git", exact: "1.1.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterChartBoost-SPM.git", exact: "1.1.0"),
-        .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterDTExchange-SPM.git", exact: "1.1.0"),
+        .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterDTExchange-SPM.git", exact: "1.1.1"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterFan-SPM.git", exact: "1.1.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterInMobi-SPM.git", exact: "1.1.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterIronSource-SPM.git", exact: "1.1.0"),
@@ -73,8 +73,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "REVUP",
-            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.1.0/REVUP.zip",
-            checksum: "32b7a1bc7a77c540ca9503bc0c1794ac389d7fc67215bc7bf9808dd35f445186"
+            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.1.1/REVUP.zip",
+            checksum: "73eef4431ce53b4faab55f56b9fe331731a934f89d99e125777bdb7c6f97d30b"
         ),
     ]
 )
