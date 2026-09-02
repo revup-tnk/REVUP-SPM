@@ -122,8 +122,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/revup-tnk/REVUPLuckyEvent-SPM.git",
       "state" : {
-        "revision" : "8e645d421f26393a251fcb5d3390dc11424d2783",
-        "version" : "1.1.9"
+        "revision" : "a1482192af3e30c2c43f32d72d2fe3d660cbc779",
+        "version" : "1.1.10"
       }
     },
     {

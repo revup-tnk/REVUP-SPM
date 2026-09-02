@@ -12,7 +12,7 @@ let package = Package(
             targets: ["REVUPTarget"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/revup-tnk/REVUPLuckyEvent-SPM.git", exact: "1.1.9"),
+        .package(url: "https://github.com/revup-tnk/REVUPLuckyEvent-SPM.git", exact: "1.1.10"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaAdManager-SPM.git", exact: "1.1.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaAdMob-SPM.git", exact: "1.1.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaChartBoost-SPM.git", exact: "1.1.0"),
@@ -73,8 +73,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "REVUP",
-            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.1.9/REVUP.zip",
-            checksum: "145d242bf89a3a836c6ccd4bb5f2bb6f3dc61f579d96762e2598a25ca130d48a"
+            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.1.10/REVUP.zip",
+            checksum: "bcd753e989cead0eb51627f8afe6dfd7fba8c8ea58ba0190a4c4af66e16a2842"
         ),
     ]
 )
