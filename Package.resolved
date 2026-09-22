@@ -118,6 +118,15 @@
       }
     },
     {
+      "identity" : "revupcore-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revup-tnk/REVUPCore-SPM.git",
+      "state" : {
+        "revision" : "7e0fe53d7951da421c29f4863daf958053166021",
+        "version" : "1.1.12"
+      }
+    },
+    {
       "identity" : "revupluckyevent-spm",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/revup-tnk/REVUPLuckyEvent-SPM.git",

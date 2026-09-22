@@ -9,9 +9,10 @@ let package = Package(
     products: [
         .library(
             name: "REVUP",
-            targets: ["REVUPTarget"]),
+            targets: ["REVUP"]),
     ],
     dependencies: [
+        .package(url: "https://github.com/revup-tnk/REVUPCore-SPM.git", exact: "1.1.12"),
         .package(url: "https://github.com/revup-tnk/REVUPLuckyEvent-SPM.git", exact: "1.1.10"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaAdManager-SPM.git", exact: "1.1.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaAdMob-SPM.git", exact: "1.1.0"),
@@ -40,9 +41,9 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "REVUPTarget",
+            name: "REVUP",
             dependencies: [
-                .target(name: "REVUP"),
+                .product(name: "REVUPCore", package: "REVUPCore-SPM"),
                 .product(name: "REVUPLuckyEvent", package: "REVUPLuckyEvent-SPM"),
                 .product(name: "REVUPMediaAdManager", package: "REVUPMediaAdManager-SPM"),
                 .product(name: "REVUPMediaAdMob", package: "REVUPMediaAdMob-SPM"),
@@ -68,13 +69,7 @@ let package = Package(
                 .product(name: "REVUPMediaMaxAdapterPubMatic", package: "REVUPMediaMaxAdapterPubMatic-SPM"),
                 .product(name: "REVUPMediaMaxAdapterUnityAds", package: "REVUPMediaMaxAdapterUnityAds-SPM"),
                 .product(name: "REVUPMediaMaxAdapterVungle", package: "REVUPMediaMaxAdapterVungle-SPM"),
-            ],
-            path: "Sources"
-        ),
-        .binaryTarget(
-            name: "REVUP",
-            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.1.11/REVUP.zip",
-            checksum: "e46255d0a49d3cf030e4a55c73bc25dfedf6470d62a078f9de515b5ee4964ec6"
-        ),
+            ]
+        )
     ]
 )
