@@ -12,15 +12,15 @@ let package = Package(
             targets: ["REVUPTarget"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/revup-tnk/REVUPLuckyEvent-SPM.git", exact: "1.2.0"),
+        .package(url: "https://github.com/revup-tnk/REVUPLuckyEvent-SPM.git", exact: "1.2.1"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaAdManager-SPM.git", exact: "1.2.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaAdMob-SPM.git", exact: "1.2.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaChartBoost-SPM.git", exact: "1.2.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMobVista-SPM.git", exact: "1.2.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaPangle-SPM.git", exact: "1.2.0"),
-        .package(url: "https://github.com/revup-tnk/REVUPMediaTnkPub-SPM.git", exact: "1.2.0"),
+        .package(url: "https://github.com/revup-tnk/REVUPMediaTnkPub-SPM.git", exact: "1.2.1"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaVungle-SPM.git", exact: "1.2.0"),
-        .package(url: "https://github.com/revup-tnk/REVUPMediaMax-SPM.git", exact: "1.2.0"),
+        .package(url: "https://github.com/revup-tnk/REVUPMediaMax-SPM.git", exact: "1.2.1"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterAdManager-SPM.git", exact: "1.2.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterAdMob-SPM.git", exact: "1.2.0"),
         .package(url: "https://github.com/revup-tnk/REVUPMediaMaxAdapterBidMachine-SPM.git", exact: "1.2.0"),
@@ -75,8 +75,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "REVUP",
-            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.2.0/REVUP.zip",
-            checksum: "fa5fc8f270dad9c207569d79b80ee5e73b8af2b2fa58a6a6b2cffdc2c224ecc3"
+            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.2.1/REVUP.zip",
+            checksum: "f76eca5c936a6f3d838ef416a70b815f57d2d4d9ffc80f450c3724df6343e8eb"
         ),
     ]
 )
